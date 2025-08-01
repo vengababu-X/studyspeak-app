@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# production
+build/
+dist/
+
+# misc
+.env
+*.log
+.DS_Store
+
+# Supabase / Python / Audio
+.supabase/
+__pycache__/
+*.mp3
+*.wav
